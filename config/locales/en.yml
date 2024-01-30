@@ -28,6 +28,9 @@
 #       enabled: "ON"
 
 en:
+  layouts:
+    header:
+      title: Backgammon Games & Tournaments
   hello: "Hello world"
 
   controllers:

@@ -12,7 +12,15 @@ BLANK is template for Ruby On Rails projects.
 ## Fork the project
 ```
 ...
+
+
+## Update the project
+...
+bundle install
+bundle update
 ```
+
+
 
 ## Database
 Database is Postgresql.
